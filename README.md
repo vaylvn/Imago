@@ -4,7 +4,7 @@
 
 Imago is a lightweight desktop application for organising personal photo collections through manual face tagging. Open a folder, scan for faces, tag who's in each photo, and search by name. No cloud, no accounts, no internet connection required.
 
-Everything is stored in a single `.imago` database file that lives inside your photo directory — move the folder anywhere and Imago moves with it.
+Everything is stored in a single `.imago` database file that lives inside your photo directory, move the folder anywhere and Imago moves with it.
 
 ---
 
@@ -25,7 +25,7 @@ Everything is stored in a single `.imago` database file that lives inside your p
 
 **[→ Download the latest release](https://github.com/vaylvn/imago/releases)**
 
-Imago is a single `.exe` file. No installation required — just download and run.
+Imago is a single `.exe` file. No installation required, just download and run.
 
 > Windows only for now.
 
@@ -39,7 +39,7 @@ Imago is a single `.exe` file. No installation required — just download and ru
 4. Click **Scan** to detect faces
 5. Click any untagged face to assign a name
 
-That's it. See [USAGE.md](USAGE.md) for a full walkthrough.
+That's it. See [usage](usage.md) for a full walkthrough.
 
 ---
 
